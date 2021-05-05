@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber The Zimmerman Telegram"] 1620231306 "The Zimmerman Telegram.bcf" "The Zimmerman Telegram.bbl" "The Zimmerman Telegram" 1620231309
-  "The Zimmerman Telegram.bcf" 1620231309 110333 d073189502aaafdc759e57e7e0662d79 "pdflatex"
-  "bib.bib" 1620231295 326 666673eafc0d7f2dc0b7fc34cb5c175f ""
+["biber The Zimmerman Telegram"] 1620236967 "The Zimmerman Telegram.bcf" "The Zimmerman Telegram.bbl" "The Zimmerman Telegram" 1620236978
+  "The Zimmerman Telegram.bcf" 1620236978 110333 d073189502aaafdc759e57e7e0662d79 "pdflatex"
+  "bib.bib" 1620236403 326 666673eafc0d7f2dc0b7fc34cb5c175f ""
   (generated)
-  "The Zimmerman Telegram.bbl"
   "The Zimmerman Telegram.blg"
-["pdflatex"] 1620231308 "The Zimmerman Telegram.tex" "The Zimmerman Telegram.pdf" "The Zimmerman Telegram" 1620231309
+  "The Zimmerman Telegram.bbl"
+["pdflatex"] 1620236977 "The Zimmerman Telegram.tex" "The Zimmerman Telegram.pdf" "The Zimmerman Telegram" 1620236978
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -67,7 +67,6 @@
   "/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.def" 1614030765 20781 dc1bec6693d5466d8972ecc6b81f9f0b ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/csquotes/csquotes.sty" 1614030765 62518 6e0d74482f5cb16b3b0755031e72faf1 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
-  "/usr/local/texlive/2021/texmf-dist/tex/latex/filecontents/filecontents.sty" 1569102703 3408 71173360dc73c4a3f80bb0bc7b926ba0 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty" 1580683321 2590 e3b24ff953e5b58d924f163d25380312 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty" 1580250785 17914 4c28a13fc3d975e6e81c9bea1d697276 ""
@@ -96,16 +95,16 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1619596251 5175490 1c5e72cc7efda36f1383df713d2d77fe ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1619596279 2724700 74f113364fcb851fe4f1567da18e860c ""
   "/usr/local/texlive/2021/texmf.cnf" 1619596247 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "The Zimmerman Telegram.aux" 1620231309 1422 2cc6b399fff0e5488831f188ee31575f "pdflatex"
-  "The Zimmerman Telegram.bbl" 1620231307 1081 e4487bbbc020613564c84da1220dd84e "biber The Zimmerman Telegram"
-  "The Zimmerman Telegram.out" 1620231309 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "The Zimmerman Telegram.run.xml" 1620231309 2541 8b44bee15964620888fe3e0287477796 "pdflatex"
-  "The Zimmerman Telegram.tex" 1620231303 968 d02e5792fea02a2c9870d1c10bdcb6a5 ""
-  "bib.bib" 1620231295 326 666673eafc0d7f2dc0b7fc34cb5c175f ""
+  "The Zimmerman Telegram.aux" 1620236978 1422 2cc6b399fff0e5488831f188ee31575f "pdflatex"
+  "The Zimmerman Telegram.bbl" 1620236968 1081 e4487bbbc020613564c84da1220dd84e "biber The Zimmerman Telegram"
+  "The Zimmerman Telegram.out" 1620236978 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "The Zimmerman Telegram.run.xml" 1620236978 2541 8b44bee15964620888fe3e0287477796 "pdflatex"
+  "The Zimmerman Telegram.tex" 1620236976 1019 aaf70de189e5c0be646a270edeed8f6c ""
+  "bib.bib" 1620236403 326 666673eafc0d7f2dc0b7fc34cb5c175f ""
   (generated)
-  "The Zimmerman Telegram.log"
-  "The Zimmerman Telegram.bcf"
-  "The Zimmerman Telegram.aux"
   "The Zimmerman Telegram.run.xml"
   "The Zimmerman Telegram.out"
+  "The Zimmerman Telegram.log"
+  "The Zimmerman Telegram.aux"
   "The Zimmerman Telegram.pdf"
+  "The Zimmerman Telegram.bcf"
