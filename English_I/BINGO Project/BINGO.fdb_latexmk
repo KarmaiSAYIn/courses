@@ -1,6 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1620067802 "BINGO.tex" "BINGO.pdf" "BINGO" 1620067803
-  "/home/jonah/.macros.tex" 1619879627 214 f7a7264bd20e3f5983e37052d3de592d ""
+["pdflatex"] 1620227963 "BINGO.tex" "BINGO.pdf" "BINGO" 1620227964
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -120,12 +119,12 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1619596251 5175490 1c5e72cc7efda36f1383df713d2d77fe ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1619596279 2724700 74f113364fcb851fe4f1567da18e860c ""
   "/usr/local/texlive/2021/texmf.cnf" 1619596247 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "1598 Fashion.jpeg" 1620004939 205388 ea6b29cfaa69ad3fa6d5daf4de5d226d ""
-  "BINGO.aux" 1620067802 1096 6f73bc864aa895bcd89bc4ef2766832e "pdflatex"
-  "BINGO.out" 1620067802 368 3a25a40b038a2f8bbb9df1a67edee7ca "pdflatex"
-  "BINGO.tex" 1620067801 8314 707809e2eb85cead5ab85de06ab92092 ""
+  "1598 Fashion.jpeg" 1620248452 205388 ea6b29cfaa69ad3fa6d5daf4de5d226d ""
+  "BINGO.aux" 1620227964 1096 43067e53186a60cdcb35ef51b1f9ace2 "pdflatex"
+  "BINGO.out" 1620227964 368 3a25a40b038a2f8bbb9df1a67edee7ca "pdflatex"
+  "BINGO.tex" 1620227958 8555 852adb5c3db56677fd705d92aa128687 ""
   (generated)
-  "BINGO.pdf"
   "BINGO.out"
+  "BINGO.pdf"
   "BINGO.log"
   "BINGO.aux"

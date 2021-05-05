@@ -705,11 +705,6 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /home/jonah/.macros.tex
-INPUT /home/jonah/.macros.tex
-INPUT /home/jonah/.macros.tex
-INPUT /home/jonah/.macros.tex
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
 INPUT ./BINGO.aux
 INPUT BINGO.aux
 INPUT BINGO.aux
