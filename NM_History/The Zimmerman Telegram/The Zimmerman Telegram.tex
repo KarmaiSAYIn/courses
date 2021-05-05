@@ -2,10 +2,10 @@
 \usepackage{lipsum}
 \usepackage{titling}
 \usepackage{hyperref}
-\usepackage[hyphens]{url}
 \usepackage[american]{babel} 
 \usepackage{csquotes} 
-\usepackage[backend=biber, style=mla-new]{biblatex}
+\usepackage[style=mla-new]{biblatex}
+\usepackage{filecontents}
 \usepackage[margin=1in]{geometry}
 
 \begin{filecontents}{bib.bib}
@@ -15,7 +15,7 @@
 }
 \end{filecontents}
 
-\addbibresource{bib.bib}
+\addbibresource{bib.bib} % you would use your own bib file here
 
 \newcommand{\PutTitle}[1]
 {
@@ -40,7 +40,6 @@
 \pagestyle{headings}
 \newpage
 
-\fussy
 \printbibliography
 
 \end{document}
