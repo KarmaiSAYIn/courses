@@ -1,0 +1,46 @@
+\documentclass[12pt]{article}
+\usepackage{lipsum}
+\usepackage{titling}
+\usepackage{hyperref}
+\usepackage[hyphens]{url}
+\usepackage[american]{babel} 
+\usepackage{csquotes} 
+\usepackage[backend=biber, style=mla-new]{biblatex}
+\usepackage[margin=1in]{geometry}
+
+\begin{filecontents}{bib.bib}
+@article{ZimmermanTelegram,
+    title = "The Zimmerman Telegram",
+    url = "https://www.archives.gov/education/lessons/zimmermann#:~:text=Espa%C3%B1ol,for%20joining%20the%20German%20cause",
+}
+\end{filecontents}
+
+\addbibresource{bib.bib}
+
+\newcommand{\PutTitle}[1]
+{
+    \begin{center}
+        {\huge\bfseries\thetitle}\\
+        by \theauthor\\
+        \thedate\\
+        #1        
+    \end{center}
+    \hrule
+    \vspace{2ex}
+}
+
+\begin{document}
+\title{The Zimmerman Telegram}
+\author{Jonah Mondragon}
+\date{\today}
+\PutTitle{New Mexico History Period 4}
+
+\autocite{ZimmermanTelegram}
+
+\pagestyle{headings}
+\newpage
+
+\fussy
+\printbibliography
+
+\end{document}
