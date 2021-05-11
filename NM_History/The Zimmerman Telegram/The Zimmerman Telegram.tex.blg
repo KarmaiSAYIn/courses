@@ -1,5 +1,0 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'The Zimmerman Telegram.tex.blg'
-[49] biber:340> INFO - === Wed May  5, 2021, 10:10:04
-[137] Utils.pm:411> ERROR - Cannot find 'The Zimmerman Telegram.tex.bcf'!
-[137] Biber.pm:132> INFO - ERRORS: 1
