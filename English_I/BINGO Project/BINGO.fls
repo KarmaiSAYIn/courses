@@ -1,4 +1,4 @@
-PWD /home/jonah/courses/English_I/BINGO Project
+PWD /Users/ladmin/courses/English_I/BINGO Project
 INPUT /usr/local/texlive/2021/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
@@ -808,6 +808,43 @@ INPUT 1598 Fashion.jpeg
 INPUT ./1598 Fashion.jpeg
 INPUT ./1598 Fashion.jpeg
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT ./pics/letter_to_juliet.jpg
+INPUT ./pics/letter_to_juliet.jpg
+INPUT pics/letter_to_juliet.jpg
+INPUT ./pics/letter_to_juliet.jpg
+INPUT ./pics/letter_to_juliet.jpg
+INPUT ./pics/necklace.jpg
+INPUT ./pics/necklace.jpg
+INPUT pics/necklace.jpg
+INPUT ./pics/necklace.jpg
+INPUT ./pics/necklace.jpg
+INPUT ./pics/rope_ladder.jpg
+INPUT ./pics/rope_ladder.jpg
+INPUT pics/rope_ladder.jpg
+INPUT ./pics/rope_ladder.jpg
+INPUT ./pics/rope_ladder.jpg
+INPUT ./pics/necklace.jpg
+INPUT ./pics/necklace.jpg
+INPUT pics/necklace.jpg
+INPUT ./pics/necklace.jpg
+INPUT ./pics/vial_of_poison.jpg
+INPUT ./pics/vial_of_poison.jpg
+INPUT pics/vial_of_poison.jpg
+INPUT ./pics/vial_of_poison.jpg
+INPUT ./pics/vial_of_poison.jpg
+INPUT ./pics/herbs_and_flowers.jpg
+INPUT ./pics/herbs_and_flowers.jpg
+INPUT pics/herbs_and_flowers.jpg
+INPUT ./pics/herbs_and_flowers.jpg
+INPUT ./pics/herbs_and_flowers.jpg
+INPUT ./pics/necklace.jpg
+INPUT ./pics/necklace.jpg
+INPUT pics/necklace.jpg
+INPUT ./pics/necklace.jpg
+INPUT ./pics/necklace.jpg
+INPUT ./pics/necklace.jpg
+INPUT pics/necklace.jpg
+INPUT ./pics/necklace.jpg
 INPUT BINGO.aux
 INPUT ./BINGO.out
 INPUT ./BINGO.out
