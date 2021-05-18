@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.4.28)  5 MAY 2021 09:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.13)  17 MAY 2021 10:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -573,31 +573,88 @@ Underfull \hbox (badness 5359) in paragraph at lines 142--143
 []\OT1/cmr/m/n/10 Our lo-cal cloth-ing store
  []
 
-<1598 Fashion.jpeg, id=50, 112.42pt x 180.675pt>
+<1598 Fashion.jpeg, id=58, 112.42pt x 180.675pt>
 File: 1598 Fashion.jpeg Graphic file (type jpg)
 <use 1598 Fashion.jpeg>
 Package pdftex.def Info: 1598 Fashion.jpeg  used on input line 144.
 (pdftex.def)             Requested size: 112.41972pt x 180.67455pt.
 [3 <./1598 Fashion.jpeg>]
+<pics/letter_to_juliet.jpg, id=75, 2569.6pt x 1188.44pt>
+File: pics/letter_to_juliet.jpg Graphic file (type jpg)
+<use pics/letter_to_juliet.jpg>
+Package pdftex.def Info: pics/letter_to_juliet.jpg  used on input line 164.
+(pdftex.def)             Requested size: 2569.59377pt x 1188.43712pt.
+<pics/necklace.jpg, id=76, 4175.6pt x 1927.2pt>
+File: pics/necklace.jpg Graphic file (type jpg)
+<use pics/necklace.jpg>
+Package pdftex.def Info: pics/necklace.jpg  used on input line 171.
+(pdftex.def)             Requested size: 4175.58987pt x 1927.19533pt.
+
 Overfull \vbox (6.83331pt too high) has occurred while \output is active []
 
- [4] (./BINGO.aux)
+ [4 <./pics/letter_to_juliet.jpg>]
+<pics/rope_ladder.jpg, id=84, 2569.6pt x 1188.44pt>
+File: pics/rope_ladder.jpg Graphic file (type jpg)
+<use pics/rope_ladder.jpg>
+Package pdftex.def Info: pics/rope_ladder.jpg  used on input line 177.
+(pdftex.def)             Requested size: 2569.59377pt x 1188.43712pt.
+
+Overfull \vbox (6.83331pt too high) has occurred while \output is active []
+
+ [5 <./pics/necklace.jpg> <./pics/rope_ladder.jpg>]
+File: pics/necklace.jpg Graphic file (type jpg)
+<use pics/necklace.jpg>
+Package pdftex.def Info: pics/necklace.jpg  used on input line 184.
+(pdftex.def)             Requested size: 4175.58987pt x 1927.19533pt.
+<pics/vial_of_poison.jpg, id=92, 4175.6pt x 1927.2pt>
+File: pics/vial_of_poison.jpg Graphic file (type jpg)
+<use pics/vial_of_poison.jpg>
+Package pdftex.def Info: pics/vial_of_poison.jpg  used on input line 190.
+(pdftex.def)             Requested size: 4175.58987pt x 1927.19533pt.
+
+Overfull \vbox (6.83331pt too high) has occurred while \output is active []
+
+ [6 <./pics/vial_of_poison.jpg>]
+<pics/herbs_and_flowers.jpg, id=100, 4175.6pt x 1927.2pt>
+File: pics/herbs_and_flowers.jpg Graphic file (type jpg)
+<use pics/herbs_and_flowers.jpg>
+Package pdftex.def Info: pics/herbs_and_flowers.jpg  used on input line 196.
+(pdftex.def)             Requested size: 4175.58987pt x 1927.19533pt.
+File: pics/necklace.jpg Graphic file (type jpg)
+<use pics/necklace.jpg>
+Package pdftex.def Info: pics/necklace.jpg  used on input line 203.
+(pdftex.def)             Requested size: 4175.58987pt x 1927.19533pt.
+
+Overfull \vbox (6.83331pt too high) has occurred while \output is active []
+
+ [7 <./pics/herbs_and_flowers.jpg>]
+File: pics/necklace.jpg Graphic file (type jpg)
+<use pics/necklace.jpg>
+Package pdftex.def Info: pics/necklace.jpg  used on input line 209.
+(pdftex.def)             Requested size: 4175.58987pt x 1927.19533pt.
+
+Overfull \vbox (6.83331pt too high) has occurred while \output is active []
+
+ [8]
+Overfull \vbox (6.83331pt too high) has occurred while \output is active []
+
+ [9] (./BINGO.aux)
 Package rerunfilecheck Info: File `BINGO.out' has not changed.
-(rerunfilecheck)             Checksum: 3A25A40B038A2F8BBB9DF1A67EDEE7CA;368.
+(rerunfilecheck)             Checksum: 7F95AEDFCB3A6625637B581B4F7FD79C;663.
  ) 
 Here is how much of TeX's memory you used:
- 12162 strings out of 478994
- 184765 string characters out of 5858190
- 649033 words of memory out of 5000000
- 29418 multiletter control sequences out of 15000+600000
+ 12220 strings out of 478994
+ 185722 string characters out of 5858184
+ 781805 words of memory out of 5000000
+ 29445 multiletter control sequences out of 15000+600000
  410861 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,8n,116p,287b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 111i,8n,116p,287b,547s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/tipa/tipa10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/yfonts-t1/ygoth.pfb>
-Output written on BINGO.pdf (4 pages, 379427 bytes).
+Output written on BINGO.pdf (9 pages, 15071213 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
- 30 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 186 PDF objects out of 1000 (max. 8388607)
+ 152 compressed objects within 2 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
