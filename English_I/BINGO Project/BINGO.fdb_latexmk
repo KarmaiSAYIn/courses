@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1621269120 "BINGO.tex" "BINGO.pdf" "BINGO" 1621269123
+["pdflatex"] 1621370250 "BINGO.tex" "BINGO.pdf" "BINGO" 1621370254
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -120,16 +120,19 @@
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1620913721 2724745 bc9ebc0f96c984b9e276deaa58dd748a ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   "1598 Fashion.jpeg" 1620758468 205388 ea6b29cfaa69ad3fa6d5daf4de5d226d ""
-  "BINGO.aux" 1621269123 2154 1f782c1665d93ef8e854024743975746 "pdflatex"
-  "BINGO.out" 1621269123 663 7f95aedfcb3a6625637b581b4f7fd79c "pdflatex"
-  "BINGO.tex" 1621269119 9858 3656a31651f7afc32579a345baaed4e6 ""
+  "BINGO.aux" 1621370254 2149 526a03cc807d47190ab0d8be670ee700 "pdflatex"
+  "BINGO.out" 1621370254 509 50d171cf1a718c1713d2c6bc2ec3aad1 "pdflatex"
+  "BINGO.tex" 1621370248 11571 58557569575a21d6f4974b8b507d66da ""
+  "pics/all_together_now.jpg" 1621259951 1048799 802242f09a9280a400167f47aa76d519 ""
+  "pics/dagger.jpg" 1621369101 4194527 22a7b204c6b4508e4b5d4a155ca5c9bd ""
+  "pics/dunce.jpg" 1621369058 6356 af69d3f619e9705e9edb3ae38924bbe2 ""
   "pics/herbs_and_flowers.jpg" 1621259951 4194527 85d986f3fea51db5196da65b1ccb8218 ""
-  "pics/letter_to_juliet.jpg" 1621259951 1048799 b00192d433d43d3f95bbb247bb28fd82 ""
   "pics/necklace.jpg" 1621259951 4194527 d3ba58c5658811b87bf7ee5114e7bf4a ""
   "pics/rope_ladder.jpg" 1621259951 1048799 412054097746b7656e0ae246d787dd0f ""
+  "pics/sword.jpg" 1621369101 1048799 ebd445f389e409d13046a8466b3b4a5c ""
   "pics/vial_of_poison.jpg" 1621259951 4194527 5ec9aed955ae741579d73f1db70f1b91 ""
   (generated)
   "BINGO.log"
-  "BINGO.out"
   "BINGO.pdf"
   "BINGO.aux"
+  "BINGO.out"
