@@ -1,9 +1,9 @@
-PWD /Users/ladmin/courses/NM_History/The Zimmerman Telegram
+PWD /Users/ladmin/courses/Freshman Fitness/Taking Care ET
 INPUT /usr/local/texlive/2021/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT The Zimmerman Telegram.tex
-OUTPUT The Zimmerman Telegram.log
+INPUT Taking Care ET.tex
+OUTPUT Taking Care ET.log
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
@@ -21,6 +21,17 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.sty
@@ -81,28 +92,6 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
@@ -290,6 +279,16 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
@@ -379,150 +378,6 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
@@ -547,10 +402,10 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT ./The Zimmerman Telegram.aux
-INPUT The Zimmerman Telegram.aux
-INPUT The Zimmerman Telegram.aux
-OUTPUT The Zimmerman Telegram.aux
+INPUT ./Taking Care ET.aux
+INPUT Taking Care ET.aux
+INPUT Taking Care ET.aux
+OUTPUT Taking Care ET.aux
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
@@ -566,6 +421,14 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -603,59 +466,24 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestri
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT ./The Zimmerman Telegram.out
-INPUT The Zimmerman Telegram.out
-INPUT ./The Zimmerman Telegram.out
-INPUT The Zimmerman Telegram.out
-INPUT ./The Zimmerman Telegram.out
-INPUT The Zimmerman Telegram.out
-INPUT ./The Zimmerman Telegram.out
-INPUT The Zimmerman Telegram.out
-INPUT ./The Zimmerman Telegram.out
-INPUT ./The Zimmerman Telegram.out
-OUTPUT The Zimmerman Telegram.out
-OUTPUT The Zimmerman Telegram.pdf
-INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT ./Taking Care ET.out
+INPUT Taking Care ET.out
+INPUT ./Taking Care ET.out
+INPUT Taking Care ET.out
+INPUT ./Taking Care ET.out
+INPUT Taking Care ET.out
+INPUT ./Taking Care ET.out
+INPUT Taking Care ET.out
+INPUT ./Taking Care ET.out
+INPUT ./Taking Care ET.out
+OUTPUT Taking Care ET.out
+OUTPUT Taking Care ET.pdf
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsl12.tfm
 INPUT /usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT The Zimmerman Telegram.aux
-INPUT ./The Zimmerman Telegram.out
-INPUT ./The Zimmerman Telegram.out
+INPUT Taking Care ET.aux
+INPUT ./Taking Care ET.out
+INPUT ./Taking Care ET.out
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
-INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb
