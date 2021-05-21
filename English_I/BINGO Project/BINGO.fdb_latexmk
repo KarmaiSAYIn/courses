@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1621537479 "BINGO.tex" "BINGO.pdf" "BINGO" 1621537483
+["pdflatex"] 1621609656 "BINGO.tex" "BINGO.pdf" "BINGO" 1621609659
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -120,9 +120,9 @@
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1620913721 2724745 bc9ebc0f96c984b9e276deaa58dd748a ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   "1598 Fashion.jpeg" 1620758468 205388 ea6b29cfaa69ad3fa6d5daf4de5d226d ""
-  "BINGO.aux" 1621537483 2236 65c1923c9b8bda07d5b93a720c38bd1e "pdflatex"
-  "BINGO.out" 1621537483 509 50d171cf1a718c1713d2c6bc2ec3aad1 "pdflatex"
-  "BINGO.tex" 1621537483 14820 02691bd1205410805fd19629ef450fe9 ""
+  "BINGO.aux" 1621609659 2236 1b7742a9f0238c792f6cf12572198244 "pdflatex"
+  "BINGO.out" 1621609659 509 50d171cf1a718c1713d2c6bc2ec3aad1 "pdflatex"
+  "BINGO.tex" 1621609657 15461 dc05f5fa6cf9d3dce7bebea400e5ebc6 ""
   "pics//dagger.jpg" 1621369101 4194527 22a7b204c6b4508e4b5d4a155ca5c9bd ""
   "pics//dunce.jpg" 1621369058 6356 af69d3f619e9705e9edb3ae38924bbe2 ""
   "pics//herbs_and_flowers.jpg" 1621259951 4194527 85d986f3fea51db5196da65b1ccb8218 ""
@@ -131,7 +131,7 @@
   "pics//sword.jpg" 1621369101 1048799 ebd445f389e409d13046a8466b3b4a5c ""
   "pics//vial_of_poison.jpg" 1621259951 4194527 5ec9aed955ae741579d73f1db70f1b91 ""
   (generated)
+  "BINGO.log"
+  "BINGO.aux"
   "BINGO.out"
   "BINGO.pdf"
-  "BINGO.aux"
-  "BINGO.log"
