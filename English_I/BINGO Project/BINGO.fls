@@ -808,10 +808,10 @@ INPUT 1598 Fashion.jpeg
 INPUT ./1598 Fashion.jpeg
 INPUT ./1598 Fashion.jpeg
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
-INPUT ./pics//dunce.jpg
-INPUT pics//dunce.jpg
-INPUT ./pics//dunce.jpg
-INPUT ./pics//dunce.jpg
+INPUT ./pics//letter_to_romeo.jpg
+INPUT pics//letter_to_romeo.jpg
+INPUT ./pics//letter_to_romeo.jpg
+INPUT ./pics//letter_to_romeo.jpg
 INPUT ./pics//vial_of_poison.jpg
 INPUT pics//vial_of_poison.jpg
 INPUT ./pics//vial_of_poison.jpg
@@ -832,16 +832,18 @@ INPUT ./pics//herbs_and_flowers.jpg
 INPUT pics//herbs_and_flowers.jpg
 INPUT ./pics//herbs_and_flowers.jpg
 INPUT ./pics//herbs_and_flowers.jpg
-INPUT ./pics//dunce.jpg
-INPUT pics//dunce.jpg
-INPUT ./pics//dunce.jpg
+INPUT ./pics//ring.jpg
+INPUT pics//ring.jpg
+INPUT ./pics//ring.jpg
+INPUT ./pics//ring.jpg
 INPUT ./pics//necklace.jpg
 INPUT pics//necklace.jpg
 INPUT ./pics//necklace.jpg
 INPUT ./pics//necklace.jpg
-INPUT ./pics//dunce.jpg
-INPUT pics//dunce.jpg
-INPUT ./pics//dunce.jpg
+INPUT ./pics//all_together_now.jpg
+INPUT pics//all_together_now.jpg
+INPUT ./pics//all_together_now.jpg
+INPUT ./pics//all_together_now.jpg
 INPUT BINGO.aux
 INPUT ./BINGO.out
 INPUT ./BINGO.out
