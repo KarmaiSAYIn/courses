@@ -1,8 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1621629444 "Route 66 Test.tex" "Route 66 Test.pdf" "Route 66 Test" 1621629446
+["pdflatex"] 1621873053 "Route 66 Test.tex" "Route 66 Test.pdf" "Route 66 Test" 1621873055
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -17,6 +18,7 @@
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1136768653 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm" 1136768653 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -83,11 +85,11 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1620913721 2724745 bc9ebc0f96c984b9e276deaa58dd748a ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "Route 66 Test.aux" 1621629446 722 2672dafa11f66ef54a4a1e3abd141fcf "pdflatex"
-  "Route 66 Test.out" 1621629446 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Route 66 Test.tex" 1621629444 3284 b0a705edcb7a9ad40b82c6c4aa1596c7 ""
+  "Route 66 Test.aux" 1621873055 782 82ec907cf84838ec7c53df94f2ffa882 "pdflatex"
+  "Route 66 Test.out" 1621873054 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Route 66 Test.tex" 1621873052 6460 150b46e30837ae3a06b611302a8e1a8d ""
   (generated)
-  "Route 66 Test.pdf"
-  "Route 66 Test.aux"
   "Route 66 Test.out"
+  "Route 66 Test.aux"
+  "Route 66 Test.pdf"
   "Route 66 Test.log"
