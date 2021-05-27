@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1621888624 "the_manhatten_project.tex" "the_manhatten_project.pdf" "the_manhatten_project" 1621888626
+["pdflatex"] 1622129527 "the_manhatten_project.tex" "the_manhatten_project.pdf" "the_manhatten_project" 1622129529
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -71,11 +71,11 @@
   "/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1616695603 5169178 a2ce6e2d73f603b690db6777d06dbccb ""
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1620913721 2724745 bc9ebc0f96c984b9e276deaa58dd748a ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "the_manhatten_project.aux" 1621888626 686 4ce905362b6645b598ea182482e9aeed "pdflatex"
-  "the_manhatten_project.out" 1621888625 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "the_manhatten_project.tex" 1621888623 2310 73c734eaf6be0ce67c47b616788af2b6 ""
+  "the_manhatten_project.aux" 1622129529 686 4ce905362b6645b598ea182482e9aeed "pdflatex"
+  "the_manhatten_project.out" 1622129528 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "the_manhatten_project.tex" 1622129527 2805 3df037dc734571c183e8a0e72a6b92da ""
   (generated)
-  "the_manhatten_project.aux"
-  "the_manhatten_project.log"
   "the_manhatten_project.out"
+  "the_manhatten_project.log"
+  "the_manhatten_project.aux"
   "the_manhatten_project.pdf"
